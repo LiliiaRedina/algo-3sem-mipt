@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
 
 void fill_mind(int n, std::vector<int>& mind) {
     std::vector<int> primes;
